@@ -1,9 +1,5 @@
 hello_world_http_server
-=====
+=======================
 
-An OTP application
-
-Build
------
-
-    $ rebar3 compile
+A minimal http server (cowboy).
+Use as an example project with [meta-erlang](https://github.com/meta-erlang/meta-erlang).
